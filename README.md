@@ -1,4 +1,4 @@
-<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Yellow%20and%20Black%20Colorful%20Blocks%20App%20Product%20Pitch%20Website.png">
+<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Black%20Bold%20Tech%20CopywriterEditor%20Freelance%20Website%20(1).png">
 
 
 ### Hi there 👋
