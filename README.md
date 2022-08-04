@@ -50,6 +50,17 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 </div>
 
 </td><td valign="top" width="33%">
+ 
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
+  
+  
+  
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
