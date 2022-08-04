@@ -65,7 +65,8 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
   
 ## 💌 Connect with me  
 
-
+<br/> 
+<br/> 
 
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
@@ -75,6 +76,8 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook width="150" />
 </a>
 </div>  
+
+
 
 ## 
 
