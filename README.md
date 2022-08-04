@@ -1,4 +1,4 @@
-<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Black%20Bold%20Tech%20CopywriterEditor%20Freelance%20Website%20(1).png">
+<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Blue%20And%20Pink%20Modern%20Abstract%20Facebook%20Cover%20(1640%20%C3%97%20724%20px)%20(1).png">
 
 <!--
 **AlinaPisarenko/AlinaPisarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
