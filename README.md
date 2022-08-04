@@ -77,7 +77,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 </a>
 </div>  
 
-
+<br/> 
 
 ## 
 
