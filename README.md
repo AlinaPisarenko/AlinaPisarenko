@@ -76,10 +76,11 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 
 <div style="width:100%;height:0;padding-bottom:50%;position:relative;">
-  <iframe src="https://giphy.com/embed/Q8xuJjjxQHHJdHn7gJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <iframe src="https://giphy.com/embed/Q8xuJjjxQHHJdHn7gJ"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
-
+<img src="https://giphy.com/embed/Q8xuJjjxQHHJdHn7gJ" 
+alt="IMAGE ALT TEXT HERE" width="100%" height="100%" style="position:absolute" border="0" class="giphy-embed" allowFullScreen />
  
 
 
