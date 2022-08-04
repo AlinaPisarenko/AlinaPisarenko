@@ -49,19 +49,14 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+  </td></tr></table>
  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
-  
   
   
 ## Connect with me  
+
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
