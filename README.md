@@ -75,6 +75,9 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 </div>  
 
 
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/Q8xuJjjxQHHJdHn7gJ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/codeit-official-logo-coding-codeit-Q8xuJjjxQHHJdHn7gJ">via GIPHY</a></p>
+
+
  
 
 
