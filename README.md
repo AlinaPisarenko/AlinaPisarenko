@@ -74,7 +74,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 </a>
 </div>  
 
-<br/>   
+## 
 
 <div align="center">
   <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="300"/>
