@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites. 👩‍💻   
+## I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites. 👩‍💻   
   
 
 Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
@@ -53,6 +53,15 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
  
 
 <br/>  
+
+
+## My Stats
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlinaPisarenko)](https://git.io/streak-stats)
+</div>  
+
+
+<br/>  
   
   
 ## Connect with me  
@@ -65,6 +74,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>  
+
 
  
 
