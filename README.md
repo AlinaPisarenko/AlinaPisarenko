@@ -1,8 +1,5 @@
 <img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Black%20Bold%20Tech%20CopywriterEditor%20Freelance%20Website%20(1).png">
 
-
-### Hi there 👋
-
 <!--
 **AlinaPisarenko/AlinaPisarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,10 +35,6 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
@@ -53,18 +46,10 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="50" /> 
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="50" />  
-
-
+ <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
