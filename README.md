@@ -1,3 +1,6 @@
+<img src="https://github.com/AlinaPisarenko/AlinaPisarenko/blob/main/Black%20Bold%20Tech%20CopywriterEditor%20Freelance%20Website.png">
+
+
 ### Hi there 👋
 
 <!--
