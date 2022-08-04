@@ -29,7 +29,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 - ⚡ Fun fact: I'm a huge fan of Harry Potter.  
 
-<br/>  
+
 
 ## 🛠 My Skill Set  
 
