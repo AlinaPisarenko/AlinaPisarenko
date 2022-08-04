@@ -65,12 +65,12 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
   
 ## 💌 Connect with me  
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px; margin-top: 100px;">
 <a href="https://linkedin.com/in/alina-pisarenko-web-developer" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="150" style="margin-bottom: 10px; margin-top: 100px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin width="150" style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.facebook.com/account7.alina" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook width="150" style="margin-bottom: 10px; margin-top: 100px;" />
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook width="150" style="margin-bottom: 10px; " />
 </a>
 </div>  
 
