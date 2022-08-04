@@ -56,9 +56,11 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 
 ## My Stats
-<!-- <div align="center"> -->
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlinaPisarenko&theme=tokyonight)](https://git.io/streak-stats)
-<!-- </div>   -->
+  
+</div>  
 
 
 <br/>  
