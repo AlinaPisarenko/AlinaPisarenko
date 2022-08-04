@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##👩‍💻 I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
+## 👩‍💻 I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
   
 
 Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
