@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
   
 
-- 🔭 I’m currently working on [Purple](https://github.com/AlinaPisarenko/project-phase-5), a whiteboard sharing website.  
+- 🔭 I’m currently working on my [Portfolio](https://github.com/AlinaPisarenko/portfolio) website.
   
 
 - 🌱 I’m currently learning Redux and TypeScript.  
