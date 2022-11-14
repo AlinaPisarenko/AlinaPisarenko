@@ -24,7 +24,7 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 - 🔭 I’m currently working on my [Portfolio](https://github.com/AlinaPisarenko/portfolio-website) website.
   
 
-- 🌱 I’m currently learning Python.  
+- 🌱 I’m currently learning Python and Three.js.  
   
 
 - ⚡ Fun fact: I'm a huge fan of Harry Potter.  
