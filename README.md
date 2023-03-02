@@ -49,6 +49,9 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="60" /> 
 <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" height="60" />  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="60" />  
+  
 
 </div>
 
