@@ -42,16 +42,21 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /> 
-  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="60" />  
-   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" height="60" /> 
+  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="60" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="60" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="MaterialUI" height="60" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="60" /> 
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="60" /> 
   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="60" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" height="60" />  
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="60" />   
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />   
   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" /> 
 </div>
 
 <br/>  
