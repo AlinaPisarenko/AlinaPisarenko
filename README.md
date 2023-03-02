@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
   
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/AlinaPisarenko/portfolio-website) website.
+<!-- - 🔭 I’m currently working on my [Portfolio](https://github.com/AlinaPisarenko/portfolio-website) website. -->
   
 
-- 🌱 I’m currently learning Python and Three.js.  
+- 🌱 I’m currently learning Node.js.  
   
 
 - ⚡ Fun fact: I'm a huge fan of Harry Potter.  
@@ -38,21 +38,20 @@ Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming an
 
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /> 
-   <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" /> 
+  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" height="60" />  
+   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" height="60" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="60" /> 
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
+  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="60" /> 
+  <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="60" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="SQLite" height="60" />  
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="60" />  
-  
-
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="60" />   
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="Flask" height="60" />  
 </div>
 
 <br/>  
