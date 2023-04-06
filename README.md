@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ## 👩‍💻 I'm a full-stack developer, who is passionate about front-end and focused on building and maintaining responsive websites.   
   
 <br/> 
-Experienced in JavaScript, React.js, CSS, and Ruby on Rails based programming and have a background in design and architecture. Highly motivated individual dedicated to writing clear, concise, robust code that works. Striving to never stop learning and improving.  
-  
+Highly motivated Front-End Developer with expertise in JavaScript, React and CSS. Passionate about creating visually appealing and functional designs for websites and applications. Skilled in building responsive and accessible user interfaces using pre-built UI libraries like Bootstrap, Tailwind and Material UI. Striving to never stop learning and improving.  
 
 <!-- - 🔭 I’m currently working on my [Portfolio](https://github.com/AlinaPisarenko/portfolio-website) website. -->
   
